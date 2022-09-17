@@ -16,7 +16,6 @@ my app consists of 7 main screens
 
 ### Sign In screen
 enables the user to sign in using email and password or move to sign up screen.
-![image](https://user-images.githubusercontent.com/98299460/190863295-c1840af4-bbb5-438e-9106-f888fb83dac0.png)
 
 
 
