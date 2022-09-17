@@ -16,11 +16,13 @@ my app consists of 7 main screens
 
 ### Sign In screen
 enables the user to sign in using email and password or move to sign up screen.
+![sign in](https://user-images.githubusercontent.com/98299460/190866339-b8adc7e0-2986-4544-b0b7-65dbb80e7a4f.png)
 
 
 
 ### Sign Up screen
 enables the user to sign up using his email and password or move to sign in screen.
+![sign up](https://user-images.githubusercontent.com/98299460/190866349-018d0366-f0c9-4914-b971-ed36d0ac6dfa.png)
 
 
 ### Home screen
